@@ -1,0 +1,2 @@
+# SatisfactoryTool
+ Just a calculator
